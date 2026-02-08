@@ -11,6 +11,13 @@ Instead of manually logging polar alignment values or relying on intuition, this
 - Before/after comparison of mechanical changes  
 - Data-driven diagnosis of ALT vs AZ behavior  
 
+<p align="center">
+  <a href="https://youtu.be/pUJI16hSdoE">
+    <img src="./astrophotography_gear_whispering_thumb.jpg" alt="Polar Alignment Analysis Video">
+  </a>
+  <a href="https://youtu.be/pUJI16hSdoE">Related Video by AstroAF</a>
+</p>
+
 The goal is simple:  
 **turn polar alignment from a subjective task into a measurable system characteristic.**
 
