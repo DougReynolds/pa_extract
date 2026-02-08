@@ -16,6 +16,8 @@ Instead of manually logging polar alignment values or relying on intuition, this
     <img src="./astrophotography_gear_whispering_thumb.jpg" alt="Polar Alignment Analysis Video">
   </a>
   <a href="https://youtu.be/pUJI16hSdoE">Related Video by AstroAF</a>
+  <br/>
+  <a href="https://astroaf.space/astrophotography-gear-is-whispering-are-you-listenin">Blog Post on astroaf.space</>
 </p>
 
 The goal is simple:  
